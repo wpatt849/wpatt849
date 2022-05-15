@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wesley</h1>
+
+<img src="https://user-images.githubusercontent.com/95721147/168457207-2376849e-0e82-4e3d-9a74-f53945065526.gif" alt="my banner" width=100%>
+
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
 - 👨‍💻 All of my projects are available at [https://wesportfolio.netlify.app](https://wesportfolio.netlify.app)
